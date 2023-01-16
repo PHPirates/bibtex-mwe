@@ -1,7 +1,6 @@
 ## A gitignore for LaTeX projects
 
 *.iml
-.idea/
 out/**
 auxil/**
 
